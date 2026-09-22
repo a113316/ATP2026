@@ -3,7 +3,9 @@
 ## Autor
 - Nome: Maria Mendes
 - Número: A113316
-- Foto: ![Foto de Maria Mendes]()
+- Foto:
+ <img width="300" alt="IMG_6232" src="https://github.com/user-attachments/assets/86a39e15-5023-43e3-9055-66513c2fda8c" />
+
 
 ## Resumo
 Neste trabalho foi resolvido o último nível do jogo Maze, no Blockly Games, aplicando os conceitos de programação por blocos para guiar o personagem até ao objetivo final, tendo em conta as estruturas de repetição e condição necessárias para completar o percurso.
