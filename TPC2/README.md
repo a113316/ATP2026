@@ -14,5 +14,5 @@ Para a modalidade 2, na qual o computador adivinha, recorri à pesquisa binária
 
 
 ## Resultados
-- [Ficheiro 1](https://blockly.games/maze?lang=en&level=10&&skin=0#ojjgo4)
+- [Jogo](https://github.com/a113316/ATP2026/blob/main/TPC2/adivinhaonumero.py)
 
