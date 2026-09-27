@@ -14,5 +14,5 @@ Para a modalidade 2, na qual o computador adivinha, recorri à pesquisa binária
 
 
 ## Resultados
-- [Jogo](https://github.com/a113316/ATP2026/blob/main/TPC2/adivinhaonumero.py)
+- [Jogo](TPC2/adivinhanumero.py)
 
