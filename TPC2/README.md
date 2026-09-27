@@ -14,5 +14,5 @@ Para a modalidade 2, na qual o computador adivinha, recorri à pesquisa binária
 
 
 ## Resultados
-- [Jogo](TPC2/adivinhanumero.py)
+- [Jogo](adivinhanumero.py)
 
