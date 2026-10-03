@@ -16,4 +16,4 @@ O jogo tem duas vertentes. Na primeira, o computador joga primeiro e escolhe sem
 Na segunda vertente, o jogador joga primeiro. Neste caso, o computador só consegue vencer se o jogador falhar a estratégia: sempre que o total não estiver num dos números acima, o computador calcula a jogada que o coloca nessa sequência, ficando com o controlo do jogo. Se o jogador já estiver numa posição vencedora, o computador joga um valor aleatório e espera por um erro do adversário.
 
 ## Resultados
-- [Jogo](TPC3/quemchegaao100primeiro.py)
+- [Jogo](quemchegaao100primeiro.py)
