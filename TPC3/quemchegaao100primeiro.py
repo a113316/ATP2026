@@ -1,7 +1,7 @@
-# Quem chegar ao 100 primeiro vence. O jogador e o computador vão alternadamente jogando um número de 1 a 10.
+# Corrida até aos 100
 
 import random 
-
+print ("O total começa em 0. O jogador e o computador alternam somando um numero de 1 a 10 ao total. Quem atingir exatamente o número 100 vence.")
 def vertente1():
         
     soma = 1
