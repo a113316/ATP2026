@@ -14,6 +14,6 @@ A aplicação permite criar uma turma, inserir alunos, listar a turma e consulta
 Cada aluno é representado por um tuplo (nome, id, [notaTPC, notaProj, notaTeste]), e a turma por uma lista desses tuplos.
 Para a realização do mesmo, utilizei ciclos for e while, condições, funções, listas, tuplos e leitura e escrita de ficheiros.
 
-
-- [Jogo](menu.py)
+## Resultados 
+- [Trabalho](turma.py)
 
