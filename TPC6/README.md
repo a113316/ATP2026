@@ -15,4 +15,4 @@ Cada dia é representado por um tuplo ((ano, mês, dia), tmin, tmax, prec), e a 
 Para este trabalho utilizei ciclos, condições, funções, listas, tuplos, ficheiros e funções matplotlib.
 
 ## Resultados 
-- [Trabalho](turma.py)
+- [Trabalho](meteo.py)
