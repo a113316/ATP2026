@@ -9,8 +9,8 @@
 
 
 ## Resumo
-EEste TPC é um teste de aferição para avaliar os conhecimentos sobre a matéria lecionada até à data. 
+Este TPC é um teste de aferição para avaliar os conhecimentos sobre a matéria lecionada até à data. 
 Contém exercícios variados sobre listas, tuplos e dicionários.
 
 ## Resultados 
-- [Trabalho](meteo.py)
+- [Teste de Aferição](AulaP7-20261027.ipynb)
